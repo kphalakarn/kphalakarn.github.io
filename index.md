@@ -21,7 +21,7 @@ My CV is available <a href="https://docs.google.com/viewer?url=https://github.co
 
 ### Publication
 
-- <a href="https://dblp.uni-trier.de/pers/hd/p/Phalakarn:Kittiphon" target="_blank">dblp</a>
+- <a href="https://dblp.org/pid/187/5700" target="_blank">dblp</a>
 - <a href="https://scholar.google.com/citations?user=-vdzW3kAAAAJ" target="_blank">Google Scholar</a>
 - <a href="https://orcid.org/0009-0006-5406-7480" target="_blank">ORCID</a>
 - <a href="https://researchmap.jp/kittiphon.phalakarn?lang=en" target="_blank">researchmap</a>
