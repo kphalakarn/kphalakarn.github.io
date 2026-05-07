@@ -7,6 +7,7 @@
     .intro { flex-direction: column; align-items: center; }
     .intro-name-desktop { display: none; }
     .intro-name-mobile { display: block; }
+    .intro-img { order: -1; }
   }
 </style>
 
