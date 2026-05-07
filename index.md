@@ -4,7 +4,7 @@
   .intro-img { flex-shrink: 0; }
   .intro-name-mobile { display: none; }
   @media (max-width: 720px) {
-    .intro { flex-direction: column; align-items: center; gap: 0; }
+    .intro { flex-direction: column; align-items: center; gap: 1em; }
     .intro-name-desktop { display: none; }
     .intro-name-mobile { display: block; }
     .intro-img { order: -1; }
