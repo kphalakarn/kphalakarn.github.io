@@ -8,6 +8,7 @@
     .intro-name-desktop { display: none; }
     .intro-name-mobile { display: block; }
     .intro-img { order: -1; }
+    .intro-img img { width: 250px; }
   }
 </style>
 
