@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; gap: 2em;">
 
 <div style="flex: 1;">
 
