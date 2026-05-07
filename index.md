@@ -3,7 +3,7 @@
   .intro-text { flex: 1; }
   .intro-img { flex-shrink: 0; }
   .intro-name-mobile { display: none; }
-  @media (max-width: 480px) {
+  @media (max-width: 720px) {
     .intro { flex-direction: column; align-items: center; }
     .intro-name-desktop { display: none; }
     .intro-name-mobile { display: block; }
