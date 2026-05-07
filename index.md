@@ -1,4 +1,4 @@
-# Kittiphon Phalakarn
+# [Kittiphon Phalakarn](https://kphalakarn.github.io/)
 
 **Kittiphon Phalakarn** (Kitty, กิตติภณ พละการ, キッティポン パラカーン) is a researcher at <a href="https://group-mmm.org/eratommsd/" target="_blank">Research Center for Mathematical Trust in Software and Systems</a>, Information Systems Architecture Science Research Division, <a href="https://www.nii.ac.jp/en/" target="_blank">National Institute of Informatics</a>, Tokyo, Japan, led by <a href="https://group-mmm.org/~ichiro/" target="_blank">Prof. Ichiro Hasuo</a>.
 
