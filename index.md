@@ -9,7 +9,7 @@ My CV is available <a href="https://drive.google.com/file/d/1PFsnzjZAO3X8jh178qZ
 </div>
 
 <div style="flex-shrink: 0;">
-    <img src="https://github.com/kphalakarn/kphalakarn.github.io/blob/master/pic.jpg?raw=true" alt="Kittiphon Phalakarn" style="width: 220px; border-radius: 8px;" />
+    <img src="https://github.com/kphalakarn/kphalakarn.github.io/blob/master/pic.jpg?raw=true" alt="Kittiphon Phalakarn" style="width: 150px;" />
 </div>
 
 </div>
