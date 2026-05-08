@@ -22,7 +22,7 @@
     My CV is available <a href="{{ "/Kittiphon Phalakarn_CV.pdf" | absolute_url }}" target="_blank">here</a>.
   </div>
   <div class="intro-img">
-    <img src="https://github.com/kphalakarn/kphalakarn.github.io/blob/master/pic.jpg?raw=true" alt="Kittiphon Phalakarn" style="width: 150px;" />
+    <img src="{{ "/pic.jpg" | absolute_url }}" alt="Kittiphon Phalakarn" style="width: 150px;" />
   </div>
 </div>
 
