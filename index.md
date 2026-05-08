@@ -19,7 +19,7 @@
     <h1 class="intro-name-desktop"><a href="{{ "/" | absolute_url }}">Kittiphon Phalakarn</a></h1>
     <strong>Kittiphon Phalakarn</strong> (Kitty, กิตติภณ พละการ, キッティポン パラカーン) is a researcher at <a href="https://group-mmm.org/eratommsd/" target="_blank">Research Center for Mathematical Trust in Software and Systems</a>, Information Systems Architecture Science Research Division, <a href="https://www.nii.ac.jp/en/" target="_blank">National Institute of Informatics</a>, Tokyo, Japan, led by <a href="https://group-mmm.org/~ichiro/" target="_blank">Prof. Ichiro Hasuo</a>.
     <br><br>
-    My CV is available <a href="https://drive.google.com/file/d/1PFsnzjZAO3X8jh178qZWWzMBPWK1y2eJ" target="_blank">here</a>.
+    My CV is available <a href="{{ "/Kittiphon Phalakarn_CV.pdf" | absolute_url }}" target="_blank">here</a>.
   </div>
   <div class="intro-img">
     <img src="https://github.com/kphalakarn/kphalakarn.github.io/blob/master/pic.jpg?raw=true" alt="Kittiphon Phalakarn" style="width: 150px;" />
