@@ -8,13 +8,6 @@
     <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
-  <script>
-    document.querySelectorAll('a').forEach(a => {
-      if (a.hostname !== location.hostname) {
-        a.target = '_blank';
-      }
-    });
-  </script>
   <body>
     <div class="wrapper">
       <section style="float:none; width:100%;">
@@ -22,5 +15,12 @@
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      document.querySelectorAll('a').forEach(a => {
+        if (a.hostname !== location.hostname) {
+          a.target = '_blank';
+        }
+      });
+    </script>
   </body>
 </html>
